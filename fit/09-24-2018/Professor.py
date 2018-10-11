@@ -7,11 +7,20 @@ class Professor:
         self.__celular = None
         self.__listaDisciplina = []
 
+    def email(self):
+        return __email
+
+    def email(self, vaue):
+        self.__email = email
+
+    """
     def set_email(self, email):
         self.__email = email
 
     def get_email(self):
         return self.__email
+    
+    """
 
     def set_nome(self, arg):
         self.__nome = arg

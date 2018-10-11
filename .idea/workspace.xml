@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6899fde3-270a-495e-a13c-2e24e44be085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fit/09-24-2018/Disciplina.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fit/09-24-2018/Professor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fit/09-24-2018/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learning_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fit/17-09-2018/test_ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/fit/09-17-2018/test_ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fit/17-09-2018/test_ex01_dormir.py" beforeDir="false" afterPath="$PROJECT_DIR$/fit/09-17-2018/test_ex01_dormir.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fit/17-09-2018/test_ex02_alunos_problema.py" beforeDir="false" afterPath="$PROJECT_DIR$/fit/09-17-2018/test_ex02_alunos_problema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fit/09-24-2018/Professor.py" beforeDir="false" afterPath="$PROJECT_DIR$/fit/09-24-2018/Professor.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +76,25 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-138669804">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="134" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="134" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -91,10 +107,7 @@
         <entry file="file://$PROJECT_DIR$/fit/09-24-2018/Disciplina.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <marker date="1537834194613" expanded="true" signature="42:43" ph="..." />
-              </folding>
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -102,8 +115,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fit/09-24-2018/Professor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1538433172218" expanded="true" signature="260:295" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,7 +208,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../topzera" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -280,8 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="29" width="1368" height="740" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1" y="27" width="1368" height="742" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24497394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -308,13 +323,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FIT/17-09-2018/test_ex01.py" />
     <entry file="file://$PROJECT_DIR$/FIT/17-09-2018/test_ex01_dormir.py" />
-    <entry file="file://$PROJECT_DIR$/fit/09-24-2018/test_ex01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fit/09-24-2018/test_ex01.py" />
     <entry file="file://$PROJECT_DIR$/fit/09-17-2018/test_ex02_alunos_problema.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit/09-24-2018/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fit/09-24-2018/Disciplina.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -325,23 +348,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fit/09-24-2018/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fit/09-24-2018/Disciplina.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <marker date="1537834194613" expanded="true" signature="42:43" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fit/09-24-2018/Professor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1538433172218" expanded="true" signature="260:295" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
