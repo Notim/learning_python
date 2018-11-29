@@ -55,8 +55,6 @@ def orderDesc(lista):
 #9 Dado como parametro 2 listas com numeros inteiros,
 #retorne uma outra lista com o resto da divisão entre os respectivos
 #índices de cada lista.
-
-
 def  restodivisao (vetor1, vetor2):
     lista_valor_resto = []
 
