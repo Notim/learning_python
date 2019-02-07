@@ -1,6 +1,3 @@
-#include<stdio.h>
-#include<iostream>
-#include <iomanip>
 def main():
 	entrada = int(input())
 	pond = []
@@ -21,4 +18,3 @@ def main():
 
 
 main()
-	
