@@ -1,4 +1,4 @@
-def multi(str_values):
+def multi_13(str_values):
 
     values = str_values.split(" ")
 
@@ -8,11 +8,15 @@ def multi(str_values):
     if value1 > value2:
         value1, value2 = value2, value1
 
-    sum = 0
+    sum, x = 0, value1
 
-    for x in range(value1, value2):
-        if x % 13 != 0 :
+    while x <= value2:
+        if x % 13 != 0:
             sum += x
+        x += 1
+
+    return sum
 
 
-print(multi(input()))
+
+print(multi_13(input()))
